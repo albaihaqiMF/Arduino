@@ -6,8 +6,8 @@ String response;
 #define LED     D0        // Led in NodeMCU at pin GPIO16 (D0).
 
 const char server[] = "itlab.unila.ac.id"; 
-const char* MY_SSID = "WIFI 1";
-const char* MY_PWD =  "rafa0721";
+const char* MY_SSID = "WIFI NAME";
+const char* MY_PWD =  "WIFI PASSWORD";
 WiFiClient client;
 
 
